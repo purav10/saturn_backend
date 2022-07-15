@@ -1,0 +1,6 @@
+asgiref
+Django
+djongo
+pymongo
+python-snappy
+sqlparse
